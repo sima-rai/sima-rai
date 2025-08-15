@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Seema Rai. @sima-rai
-- 👀 I’m a software engineer with full stack developement experience.
+- 👀 I’m a software engineer with full stack development experience.
 - 🌱 My main stack is python.
 - 📫 How to reach me? -> https://www.linkedin.com/in/seema-rai-62411617a/
 
